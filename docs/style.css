@@ -127,3 +127,12 @@ nav#menu {padding:2vw; }
  border-radius: 20px;
  }
  
+ p.feature {
+    border:3px solid #ffc16e; 
+    
+ }
+ 
+ img {width:50%; max-width:800px;}
+ 
+ div.flex {display:flex;}
+ div.flex figure {flex:1;}
