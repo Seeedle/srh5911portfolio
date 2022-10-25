@@ -37,8 +37,8 @@ section.writing div.analysis {
 
 
 body section.gallery {
-  width: 80%;
-    background-color: green; 
+  width: 30%;
+    background-color: #dbffd6; 
     padding:2em; 
     margin:auto; 
     display:flex;
@@ -65,23 +65,23 @@ padding: 5em;
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: #FF9CEE;
 }
 
 /* visited link. I used a hexadecimal color code for something dark green that I picked from: 
  * https://www.w3schools.com/colors/colors_picker.asp  */
 a:visited {
-  color: #006600;
+  color: #B28DFF;
 }
 
 /* mouse over link */
 a:hover {
-  color: orange;
+  color: #FFB5E8;
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: #B28DFF;
 }
 
 /*nav.menuA {text-align: center; font-size: 3vw; }*/
@@ -90,7 +90,7 @@ a:active {
  * em is also responsive: it is the width of the standard letter M in your font usually 16 px. 
  *  */
  
- nav {background-color:aqua;
+ nav {background-color:#6EB5FF;
  display:flex;
  
  }
@@ -120,7 +120,9 @@ nav ul.menuB li {
 
 
 }
-
+h1 {
+    
+}
 nav#menu {padding:2vw; }
  
 .button { border:2px; border-style:solid; border-color:blue; padding:2vw; background-color:#E6E6FA; color:yellow; width:10%; display:inline;
@@ -128,7 +130,7 @@ nav#menu {padding:2vw; }
  }
  
  p.feature {
-    border:3px solid #ffc16e; 
+    border:3px solid #AFF8DB; 
     
  }
  
