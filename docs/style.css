@@ -69,18 +69,18 @@ h1{
 
 /* unvisited link */
 a:link {
-  color: #FF9CEE;
+  color: #c5a3ff;
 }
 
 /* visited link. I used a hexadecimal color code for something dark green that I picked from: 
  * https://www.w3schools.com/colors/colors_picker.asp  */
 a:visited {
-  color: #B28DFF;
+  color: #ffbebc;
 }
 
 /* mouse over link */
 a:hover {
-  color: #FFB5E8;
+  color: #6eb5ff;
 }
 
 /* selected link */
