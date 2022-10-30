@@ -53,6 +53,8 @@ body section.gallery {
 section.gallery figure {flex: 1; margin:auto; padding-top: 1vw; padding-bottom: 1vw; }
 figcaption {font-style: italic; font-size: smaller;}
 
+body section.prompt {display:block; margin:auto; padding:2em;}
+
 img.photo {max-width:300px; width:30%}
 /* If I want to style ANY element with the class of "photo" I could just write 
  * .photo { }
