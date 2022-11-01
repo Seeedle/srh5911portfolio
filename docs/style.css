@@ -38,7 +38,7 @@ section.writing div.analysis {
 
 body section.gallery {
   width: 30%;
-    background-color: #dbffd6; 
+    background-color: #febcc8; 
     padding:2em; 
     margin:auto; 
     display:flex;
@@ -53,7 +53,7 @@ body section.gallery {
 section.gallery figure {flex: 1; margin:auto; padding-top: 1vw; padding-bottom: 1vw; }
 figcaption {font-style: italic; font-size: smaller;}
 
-body section.prompt {display:block; margin:auto; padding:2em;}
+
 
 img.photo {max-width:300px; width:30%}
 /* If I want to style ANY element with the class of "photo" I could just write 
@@ -141,6 +141,8 @@ nav#menu {padding:2vw; }
  }
  
  img {width:30%; max-width:800px;}
+ 
+ div.prompt{ background-color:#febcc8 }
  
  div.flex {display:flex;}
  div.flex figure {flex:1;}
